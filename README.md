@@ -86,6 +86,7 @@ While other directories dump 26,849+ AI tools on you, we focus on **quality cura
 | **Pictory** | AI video creation from text and articles | Content Video | [pictory.ai](https://pictory.ai) |
 | **InVideo AI** | AI-powered video creation and editing | Video Editing | [invideo.io](https://invideo.io) |
 | **Fliki** | Text-to-video with AI voices and visuals | Content Video | [fliki.ai](https://fliki.ai) |
+| **PVID** | Free AI video generator aggregating Kling, Sora, Veo | Video Generation | [pvid.app](http://pvid.app/) |
 
 **[🎬 Explore video generation capabilities →](https://thebesttools.ai/ai-video-animation)**
 
